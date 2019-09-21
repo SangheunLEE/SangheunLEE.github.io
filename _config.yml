@@ -15,7 +15,7 @@ title:            with effort and enthusiasm, you can do anything
 tagline:          'A Jekyll theme'
 description:      ''
 url:              http://SangheunLEE/SangheunLEE.github.io http://hyde.getpoole.com
-baseurl:          /
+baseurl:          /hyde
 
 author:
   name:           'Mark Otto'
